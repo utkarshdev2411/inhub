@@ -1,0 +1,46 @@
+.caption {
+    text-align: center;
+    font-size: 50px;
+
+    font-family: Inter, Helvetica, Arial, sans-serif;
+
+    line-height: 60px;
+
+    letter-spacing: 1px;
+    word-spacing: 0%;
+
+    font-weight: 700;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(42, 46, 48);
+    text-align: center;
+    text-indent: 0px;
+
+}
+
+.introduction {
+    margin-top: 5%;
+}
+
+.c-details {
+    text-align: center;
+
+    font-family: Inter, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    vertical-align: baseline;
+    letter-spacing: 0.14px;
+    word-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(110, 107, 123);
+    color: #6e6b7b;
+    color: rgb(110, 107, 123);
+    background-color: rgba(0, 0, 0, 0);
+    width: 35%;
+    position: relative;
+    left: 32.5%;
+    margin-top: 1.5%;
+}
