@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #1e1e2f;
+    color: white;
+    margin: 0;
+    display: flex;
+}
+.n-name{
+    font-size: larger;
+}
+.n-left {
+    flex: 1;
+    align-items: center;
+    display: flex;
+    margin: 0;
+  }
+.n-right {
+    flex: 1;
+    display: inline-block;
+   font-weight: 400;
+   margin: 0;
+
+}
+.n-right>ul{
+    display: flex;
+    flex: 1;
+    gap: 1.5rem;
+    position: absolute;
+    right: 2%;
+    top: 5%;
+    /* margin: 0; */
+
+    
+}
+.n-logo>img{
+    height: 5rem;
+    width: 110%;
+    
+  }
