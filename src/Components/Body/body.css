@@ -1,0 +1,70 @@
+.body {
+    /* display: flex; */
+    text-align: center;
+    margin-top: 4%;
+}
+
+.content {
+    /* width: 46%;
+    position: relative;
+    left: 28%;
+    font-weight: 10px; */
+    text-align: center;
+
+    font-family: Inter, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 25px;
+    vertical-align: baseline;
+    letter-spacing: 0.1px;
+    word-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(110, 107, 123);
+    color: #7a7887;
+    /* color: rgb(110, 107, 123); */
+    /* background-color: rgba(0, 0, 0, 0); */
+    width:46%;
+    position: relative;
+    left: 27%;
+    margin-top: 1%;
+
+
+    
+
+}
+
+.title {
+    font-family:
+
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    font-size:
+        36px;
+    font-weight:
+        700;
+    font-style:
+        normal;
+    font-variant:
+        normal;
+    font-kerning:
+        auto;
+    font-optical-sizing:
+        auto;
+    font-stretch:
+        100%;
+    font-variation-settings:
+        normal;
+    font-feature-settings:
+        normal;
+    text-transform:
+        none;
+    text-decoration:
+        none solid rgb(115, 103, 240);
+    text-align:
+        center;
+    text-indent:
+        0px;
+}
