@@ -3,13 +3,15 @@
 .search-container {
     display:flex;
     position: relative;
-    left: 28%;
+    left: 28.5%;
     border-radius: 5px;
     border:0.5px solid rgb(54, 53, 53) ;
     padding: 15px; 
 box-shadow: 2.5px 2.5px 2.5px  rgba(116, 116, 116, 0.744) ;
-margin-top: 2.5%;
+margin-top: 5%;
 width: 43%;
+background-color: #27293d;
+
 
 
   }
@@ -20,5 +22,7 @@ width: 43%;
     outline: none;
     font-size: 18px;
     margin-left: 15px;
+    background-color: #27293d;
+
   }
   

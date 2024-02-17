@@ -16,11 +16,20 @@
     text-decoration: none solid rgb(42, 46, 48);
     text-align: center;
     text-indent: 0px;
+    color: rgb(224, 206, 206);
+
 
 }
 
 .introduction {
-    margin-top: 5%;
+    margin-top: 2.5%;
+    background-color: #27293d;
+    width: 60%;
+    position:relative;
+    left: 16.5%;
+    padding:  45px 60px;
+    color: rgb(209, 192, 192);
+
 }
 
 .c-details {
@@ -39,8 +48,8 @@
     color: #6e6b7b;
     color: rgb(110, 107, 123);
     background-color: rgba(0, 0, 0, 0);
-    width: 35%;
+    width:80%;
     position: relative;
-    left: 32.5%;
+    left: 10%;
     margin-top: 1.5%;
 }

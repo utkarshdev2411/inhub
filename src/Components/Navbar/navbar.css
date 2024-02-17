@@ -1,8 +1,9 @@
 .navbar{
-    background-color: #1e1e2f;
     color: white;
     margin: 0;
     display: flex;
+    background-color: #141425d3;
+
 }
 .n-name{
     font-size: larger;
